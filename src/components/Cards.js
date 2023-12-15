@@ -13,13 +13,13 @@ function Cards() {
               src="images/img-1.jpeg"
               text="Vibrant beetroot paratha: A colorful and nutritious twist to classic Indian flatbread."
               label="Paratha"
-              path="/services"
+              path="/chefcorner"
             />
             <CardItem
               src="images/img-2.jpeg"
               text="Vadapav: Iconic Indian street snack with spiced potato patty in a soft bun, served with chutneys."
               label="Street Food"
-              path="/services"
+              path="/chefcorner"
             />
           </ul>
           <ul className="cards__items">
@@ -27,7 +27,7 @@ function Cards() {
               src="images/img-3.jpeg"
               text="Manchow Soup: A flavorful Indo-Chinese soup with a perfect blend of vegetables, spices, and crispy noodles."
               label="Indo-Chinese"
-              path="/services"
+              path="/chefcorner"
             />
             <CardItem
               src="images/img-4.jpeg"
